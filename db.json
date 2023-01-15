@@ -1,16 +1,16 @@
 {
   "books": [
     {
+      "title": "Lord of the Rings",
+      "id": 4
+    },
+    {
       "title": "Harry Potter",
-      "id": 1
+      "id": 5
     },
     {
       "title": "Narnia",
-      "id": 2
-    },
-    {
-      "title": "Lord of the Rings",
-      "id": 4
+      "id": 6
     }
   ]
 }
